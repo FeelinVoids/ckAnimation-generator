@@ -1,6 +1,6 @@
 # ckAnimation generator
 
-[***RUSSIAN README.md || README.md НА РУССКОМ***](https://github.com/Felucca24/ckAnimation-generator/blob/master/README_ENG.md)
+[***RUSSIAN README.md || README.md НА РУССКОМ***](https://github.com/Felucca24/ckAnimation-generator/blob/master/README.md)
 
 ***Gif examples below!***  
 These scripts allow you to generate backlight animation files for some A4 Bloody keyboards. I tested it on Bloody B975, it should work on similar models with RGB backlighting. By changing ckAnimation_algorithms.py, you can easily add your own animations, inheriting the Algorithm class.
